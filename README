@@ -1,0 +1,5 @@
+Usage:
+1. push dir examples to the machine which set up HIVE.
+2. go into examples
+3. use shell to check hive query, like command: sh run_checker.sh "select * from test.uuid limit 100;"
+
